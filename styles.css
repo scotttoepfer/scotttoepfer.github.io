@@ -1,0 +1,33 @@
+html {
+font-size: 10px;
+font-family: 'Bitter', serif;
+background-color: teal;
+}
+
+h1  {
+font-size: 16px;
+text-align: center;
+margin: 0;
+padding: 20px 0;
+color: blue;
+text-shadow: 2px 2px 2px yellow;
+}
+
+p li {
+font-size: 16px;
+line-height: 2px;
+letter-spacing: 1px;
+}
+
+body {
+width: 640px;
+margin: 0 auto;
+background-color: red;
+padding: 0px 20px 20px 20px;
+border: 5px solid black;
+}
+
+img  {
+display: block;
+margin: auto;
+}
