@@ -1,3 +1,3 @@
 # scotttoepfer.github.io
 
-<h2>The learning of new technologies is awesome!</h2>
+I dont know why the CSS page isn't integrating. 
