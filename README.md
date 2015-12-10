@@ -1,3 +1,3 @@
 # scotttoepfer.github.io
 
-I dont know why the CSS page isn't integrating. 
+I dont know why the CSS or JS pages aren't integrating. 
